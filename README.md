@@ -29,7 +29,7 @@ This notebook focuses on generating Verilog code using the Constant Matrix Multi
 - Step-by-step process for generating Verilog code
 - Integration of the CMM algorithm into hardware description language (HDL)
 
-**File:** `verilog_code_generation.ipynb`
+**File:** `verilogGeneration.ipynb`
 
 ---
 
@@ -43,7 +43,7 @@ This notebook is designed to compare the output of the Verilog code generated in
 - Comparison of Vivado output with PyTorch results
 - Analysis and verification of consistency between hardware and software implementations
 
-**File:** `verilog_test.ipynb`
+**File:** `verilogTest.ipynb`
 
 ---
 
@@ -53,4 +53,4 @@ To get started with the repository:
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/CoderZIE/CMM
